@@ -6,13 +6,11 @@
 
 //}
 
-
 // Function declear
 function name() {
     console.log('Prosenjith Dash Pappu')
     console.log('prosenjith.p.w@gmail.com')
 }
-
 
 // Call the functions
 name();
